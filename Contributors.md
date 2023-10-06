@@ -502,7 +502,7 @@ Pizzacat
 - [Russell Chan] (https://github.com/tenderfoot-scout)
 -[Aditya_Sheokand](https://github.com/aditya_sheokand)
 -[Ritin Tiwari](https://github.com/ritin0204)
--Maryam
+-[Maryam Moeed](https://github.com/maryammoeed)
 -[vaishnavi sisodiya](https://github.com/vaishnavisisodiya)
 JialingYU
 -[Govind Chaudhary](https://github.com/Govind9012)
